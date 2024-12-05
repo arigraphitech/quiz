@@ -1,0 +1,69 @@
+[
+    {
+      "question": "Quel système du corps humain peut-on comparer aux courants marins et à la pompe thermohaline ?",
+      "choices": {
+        "A": "Le système nerveux",
+        "B": "Le système digestif",
+        "C": "Le système circulatoire",
+        "D": "Le système respiratoire"
+      },
+      "correctAnswer": "C",
+      "explanation": "Les courants marins et la pompe thermohaline transportent la chaleur et les nutriments à travers l'océan, tout comme le système circulatoire humain transporte le sang, l’oxygène et les nutriments à travers le corps pour maintenir son bon fonctionnement."
+    },
+    {
+      "question": "Quel rôle des poumons humains trouve son équivalent dans l’océan grâce à la photosynthèse ?",
+      "choices": {
+        "A": "La régulation de la température corporelle",
+        "B": "L'échange de gaz (CO2 et O2)",
+        "C": "La filtration des toxines",
+        "D": "La production d'énergie"
+      },
+      "correctAnswer": "B",
+      "explanation": "La photosynthèse réalisée par le phytoplancton dans l’océan permet de libérer de l’oxygène et d’absorber le dioxyde de carbone, un processus semblable à celui des poumons, qui assurent l’échange de ces mêmes gaz entre l’air et le sang."
+    },
+    {
+      "question": "Quel élément du corps humain peut être assimilé au rôle du plancton dans l’océan ?",
+      "choices": {
+        "A": "Les os",
+        "B": "Les cellules vivantes ou les globules rouges",
+        "C": "Les poumons",
+        "D": "Les neurones"
+      },
+      "correctAnswer": "B",
+      "explanation": "Le plancton est à la base de la chaîne alimentaire marine et joue un rôle crucial dans la production d’oxygène. Il est comparable aux cellules vivantes ou aux globules rouges du corps humain, qui transportent l’oxygène et permettent la vie de l’ensemble des systèmes du corps."
+    },
+    {
+      "question": "Quel processus océanique essentiel pour le climat global est comparable à la transpiration du corps humain ?",
+      "choices": {
+        "A": "La montée des marées",
+        "B": "La circulation thermohaline",
+        "C": "La formation des récifs coralliens",
+        "D": "L’évaporation des eaux de surface"
+      },
+      "correctAnswer": "B",
+      "explanation": "La circulation thermohaline transporte la chaleur à travers l’océan, régulant ainsi le climat global, tout comme la transpiration aide le corps humain à maintenir sa température interne stable en dissipant la chaleur."
+    },
+    {
+      "question": "Pourquoi peut-on dire que l’océan est le \"poumon bleu\" de la planète ?",
+      "choices": {
+        "A": "Parce qu’il abrite des espèces marines uniques",
+        "B": "Parce qu’il produit la majorité de l’oxygène sur Terre grâce au phytoplancton",
+        "C": "Parce qu’il absorbe la chaleur du Soleil",
+        "D": "Parce qu’il recycle les déchets organiques"
+      },
+      "correctAnswer": "B",
+      "explanation": "Le phytoplancton réalise la photosynthèse, libérant une grande partie de l’oxygène nécessaire à la vie sur Terre, de la même manière que les poumons permettent à l’humain de respirer."
+    },
+    {
+      "question": "Quel déséquilibre de l’océan, dû à l’absorption excessive de CO2, peut être comparé à l’acidification du sang chez l’humain ?",
+      "choices": {
+        "A": "L’acidification de l’océan",
+        "B": "L’élévation du niveau de la mer",
+        "C": "La désoxygénation des eaux",
+        "D": "L’augmentation de la salinité"
+      },
+      "correctAnswer": "A",
+      "explanation": "L’absorption accrue de dioxyde de carbone par l’océan provoque une diminution de son pH, comparable à l’acidification du sang chez l’humain (acidose), qui perturbe les fonctions biologiques."
+    }
+  ]
+  
